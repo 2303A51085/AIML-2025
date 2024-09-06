@@ -3,7 +3,7 @@
 # AIML-2024-25
 # Artificial Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 03](https://github.com/2303A51085/AIML-2025/blob/main/Lab_03-AIML.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
-1. [Lab 04](): Implement Linear Regression using Boston Housing Data
+1. [Lab 04](https://github.com/2303A51085/AIML-2025/blob/main/Lab_03-AIML.ipynb): Implement Linear Regression using Boston Housing Data
 1. [Lab 05](): Implement Logistic Regression using Titanic Ship Data
 1. [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 1. [Lab 07](): Implement Support Vector Machine using Breast Cancer Data
